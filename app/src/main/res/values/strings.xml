@@ -1,0 +1,12 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">年龄倒计时</string>
+    <string name="age_countdown">距<xliff:g>%d</xliff:g>岁</string>
+    <string name="day">天</string>
+    <string name="notification_birthday">生日：</string>
+    <string name="notification_anim">目标：</string>
+    <string name="notification_motto">座右铭</string>
+    <string name="notification_sure">确认</string>
+    <string name="notification_age">岁</string>
+    <string name="notification_cancel">取消</string>
+    <string name="notification_settings">点我配置</string>
+</resources>
